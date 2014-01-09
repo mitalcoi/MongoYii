@@ -1,5 +1,5 @@
 {
-    "name": "mitacloi/mongoyii",
+    "name": "mitacloi/MongoYii",
     "description": "A Yii MongoDB ORM",
     "keywords": ["mongodb","orm","yii"],
     "type": "yii-extension",
